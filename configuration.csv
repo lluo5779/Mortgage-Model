@@ -1,0 +1,4 @@
+﻿Scenerio Number,Interest Rate,Years,Payments per Year,Principal,Fixed Payment Per Month,Starting Year,Starting Month,Starting Day
+1,0.05,20,4,200000,0,2017,11,20
+2,0.05,15,4,200000,100,2017,11,20
+3,0.05,30,2,200000,0,2017,11,20
